@@ -1,0 +1,59 @@
+id: 99451f0308f24713b68d25b6e0c74fc4
+annotation_type: index
+revision: '00001'
+annotations:
+  4c244e0f575d4deba2ca7498d1d6e2a8:
+    base: ACF0.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 94
+    - title: Preface
+      span:
+        start: 95
+        end: 141
+    - title: 'Chapter 1: Pramuditā'
+      span:
+        start: 142
+        end: 33932
+    - title: 'Chapter 2: Vimalā'
+      span:
+        start: 33933
+        end: 48227
+    - title: 'Chapter 3: Prabhākarī'
+      span:
+        start: 48228
+        end: 66331
+    - title: 'Chapter 4: Arciṣmatī'
+      span:
+        start: 66332
+        end: 71387
+    - title: 'Chapter 5: Sudurjayā'
+      span:
+        start: 71388
+        end: 75342
+    - title: 'Chapter 6: Abhimukhī'
+      span:
+        start: 75343
+        end: 335852
+    - title: 'Chapter 7: Dūraṃgamā'
+      span:
+        start: 335853
+        end: 336981
+    - title: 'Chapter 8: Acalā'
+      span:
+        start: 336982
+        end: 342363
+    - title: 'Chapter 9: Sādhumatī'
+      span:
+        start: 342364
+        end: 343253
+    - title: 'Chapter 10: Dharmameghā'
+      span:
+        start: 343254
+        end: 344704
+    - title: 'Chapter 11: buddhabhūmi'
+      span:
+        start: 344705
+        end: 407476
